@@ -1,0 +1,19 @@
+="Estimated Effect on Total Turnout Rate"
+
+="",="(1)",="(2)",="(3)"
+
+="Treatment",="0.977",="0.977",="0.393"
+="",="(1.45)",="(1.23)",="(0.61)"
+
+="Tot Regist",="",="",="-0.0469***"
+="",="",="",="(-93.30)"
+
+="Cons",="56.89***",="56.89***",="104.2***"
+="",="(119.75)",="(85.99)",="(174.37)"
+
+="Controls",="No",="No",="Yes"
+="ClusterSE",="No",="Yes",="Yes"
+="N",="6948",="6948",="6948"
+
+="Dependent variables: town dummy and total registered population. Standard error on parenthesis"
+="* p<0.05, ** p<0.01, *** p<0.001"

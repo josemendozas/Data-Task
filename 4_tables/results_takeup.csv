@@ -1,0 +1,13 @@
+="Estimated Effect on Total Turnout Rate"
+
+="",="(1)",="(2)",="(3)"
+
+="Take-up",="1.399",="1.399",="0.562"
+="",="(1.45)",="(1.26)",="(0.63)"
+
+="Controls",="No",="No",="Yes"
+="ClusterSE",="No",="Yes",="Yes"
+="N",="6948",="6948",="6948"
+
+="Instrumental variable: Treatment Dependent variables: town dummy and total registered population. SE on parenthesis"
+="* p<0.05, ** p<0.01, *** p<0.001"
